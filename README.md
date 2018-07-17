@@ -1,4 +1,4 @@
-# reading-list
-Things I am reading
-* [Books](https://github.com/ashtonbaker/reading-list/projects/1)
-* [Academic Papers](https://github.com/ashtonbaker/reading-list/projects/2)
+# reading list
+things i am reading / things i have read
+* [books](https://github.com/ashtonbaker/reading-list/projects/1)
+* [academic papers](https://github.com/ashtonbaker/reading-list/projects/2)
